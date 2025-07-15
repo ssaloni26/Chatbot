@@ -1,0 +1,10 @@
+nltk
+pyttsx3
+requests
+speechrecognition
+pyaudio
+
+
+// the sentiment lexicon
+import nltk
+nltk.download('vader_lexicon')
